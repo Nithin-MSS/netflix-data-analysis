@@ -46,9 +46,11 @@ The dataset used is [`netflix_titles.csv`](https://www.kaggle.com/datasets/shiva
 
 ## 📷 Sample Visualizations
 
-| Movies vs TV Shows | Top 10 Genres |
-|--------------------|----------------|
-|  | ![genre plot](#) |
+### 🎬 Movies vs TV Shows
+<img src="MOVIES VS TV SHOWS.png" width="500"/>
+
+### 🎭 Top 10 Genres
+<img src="TOP 10 GENRES.png" width="500"/>
 
 
 
